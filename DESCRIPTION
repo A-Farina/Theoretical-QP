@@ -1,0 +1,15 @@
+Package: Theoretical QP
+Title: Theoretical Qualifying Paper
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Andrew",
+           family = "Farina",
+           role = c("aut", "cre"),
+           email = "andrew.farina@tufts.edu")
+Description: Versioning of my Theoretical Qualifying Paper
+License: MIT + file LICENSE
+Encoding: UTF-8
+Language: en
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
