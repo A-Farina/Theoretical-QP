@@ -15,7 +15,7 @@ affiliation:
 
 
 authornote: |
-  Andrew G. Farina, Eliot-Pearson Department of Child Study and Human Development, Tufts University. This research was supported by the John Templeton Foundation.  
+  Andrew G. Farina, Eliot-Pearson Department of Child Study and Human Development, Tufts University. This research was supported in part by a grant from the Templeton Religion Trust (TRT0093). 
 
 abstract: |
   [Need to update this field:]
@@ -145,7 +145,17 @@ knitr::include_graphics("img/theoretical_model.png")
 \newpage
 
 Adjustments to be made in the word version:
+- add these lines after name: 
+
+In partial fulfillment of the requirements for the degree of 
+Doctor of Philosophy 
+Child Study and Human Development 
+
 - Add Author Note
+- Add this to author note:
+
+ I would like to thank my advisors, Dr. Richard M. Lerner and Dr. Sara K. Johnson for their guidance, help, and direction in the process of crafting this paper.  
+
 - Bold title on title page
 - author note- bold and title case the "N"ote
 - Add wordcount
