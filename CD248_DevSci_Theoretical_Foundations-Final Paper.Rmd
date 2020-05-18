@@ -1,0 +1,123 @@
+---
+title             : "Intentional Self Regulation is Not Sufficient: The argument for understanding risk appraisal"
+shorttitle        : "Understanding Goal Directed Action in Context"
+
+author: 
+  - name          : "Andrew G. Farina"
+    affiliation   : "1"
+    corresponding : yes    # Define only one corresponding author
+    address       : "Eliot-Pearson Department of Child Study and Human Development, Tufts University, Medford, MA 02155"
+    email         : "Andrew.Farina@tufts.edu"
+
+affiliation:
+  - id            : "1"
+    institution   : "Tufts University"
+
+authornote: |
+  Andrew G. Farina, Eliot-Pearson Department of Child Study and Human Development, Tufts University. This research was supported by the John Templeton Foundation.  
+
+
+abstract: |
+  One or two sentences providing a **basic introduction** to the field,  comprehensible to a scientist in any discipline.
+  
+  Two to three sentences of **more detailed background**, comprehensible  to scientists in related disciplines.
+  
+  One sentence clearly stating the **general problem** being addressed by  this particular study.
+  
+  One sentence summarizing the main result (with the words "**here we show**" or their equivalent).
+  
+  Two or three sentences explaining what the **main result** reveals in direct comparison to what was thought to be the case previously, or how the  main result adds to previous knowledge.
+  
+  One or two sentences to put the results into a more **general context**.
+  
+  Two or three sentences to provide a **broader perspective**, readily comprehensible to a scientist in any discipline.
+  
+keywords          : "keywords"
+wordcount         : "X"
+
+bibliography      : r-references.bib
+
+floatsintext      : no
+figurelist        : no
+tablelist         : no
+footnotelist      : no
+linenumbers       : yes
+mask              : no
+draft             : no
+
+documentclass     : "apa6"
+classoption       : "man"
+output            : papaja::apa6_docx
+---
+
+```{r setup, include = FALSE}
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(tidyverse, papaja, academicWriteR)
+
+select <- dplyr::select
+```
+
+When individuals make decisions that will impact their long term 
+
+Describe the context first (risk taking/goal setting in leadership)
+Decision Making? Risk taking in decisions? - interesting research in this field--
+Define Risk, Risk Taking, Risk Propensity, and Risk Appraisal.
+
+do decisions become "better"/ more informed with age and experience?  If so, then  how does 'risk' play into this?
+
+# Risk Taking during Adolescence
+
+Discuss the papers that question whether adolesence take more risks...instead it highlights the difference in risk appraisal.
+
+Why do adolescence take risks?
+
+## Dual Model
+Dual Model to explain it… (sensation seeking with absense of self regulation capacities)
+Describe reductionist and Deficit Model
+Insufficient to describe the ‘development’ through constraints/ timing/ person…must bring in context
+
+# Dynamic Systems Approach
+
+## Action Theory
+
+## Intentional Self Regulation
+
+## SOC- The model of selection, optimizaiton, and compensation @ baltes 1990, @Frieund 2002
+
+## TENFLEX- dual-process model of assimilative and accommodative coping @Brandstadter, 1989
+
+## Primary/Secondary Control- motiviational theory of lifespan development @heckhausen 2010, 1993
+
+## Describe commonalities of these three approaches from @haase 2013
+
+## Development of Self Regulation Capacities (4H study and subsequent studies)
+
+## Development of Prudent Risk Taking using Dynamic Systems Approach
+
+How could we use this to describe the development of risk taking during adolescence?
+Challenge/ Scaffolding/ confidence gaining- repeat
+
+# New model of Self Regulation
+Propose new model of Intentional Self Regulation that includes risk taking as a central theme?
+
+# Implications
+Where do we go from here??
+
+$\leftrightarrow$
+$\longleftrightarrow$
+
+
+
+\newpage
+
+# References
+```{r create_r-references}
+r_refs(file = "r-references.bib")
+```
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+
+<div id = "refs"></div>
+\endgroup
